@@ -46,6 +46,7 @@ public class EditorConfigVO {
 
     public int msaaSamples = 4;
     public int fpsLimit = 60;
+    public String lang = "en";
     public boolean useANGLEGLES2 = true;
     public boolean failSafeException = false;
 
